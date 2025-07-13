@@ -89,7 +89,7 @@ const Footer = () => {
           className="border-t border-gray-700 mt-8 pt-8 text-center"
         >
           <p className="text-gray-400">
-            © 2024 Challenger Baseball Team. Built with love for our amazing community.
+            © 2025 Challenger Baseball Team. Built with love for our amazing community.
           </p>
         </motion.div>
       </div>
